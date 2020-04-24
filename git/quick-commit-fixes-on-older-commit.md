@@ -1,4 +1,4 @@
-# Quicker Commit Fixes With The Fixup Flag
+# Quicker Commit Fixes On An Old Commit
 
 Imagine you're working a feature branch and realize that the first commit you
 made had a typo. You could just tack on another commit to fix the typo, but

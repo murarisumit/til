@@ -1,9 +1,10 @@
-# Interactively Unstage Changes
+# Unstage Changes Interactively
 
 I often use `git add --patch` to interactively stage changes for a commit.
 Git takes me through changes to tracked files piece by piece to check if I
 want to stage them. This same interactive _staging_ of files can be used in
-reverse when removing changes from the index. Just add the `--patch` flag.
+reverse when removing cha
+nges from the index. Just add the `--patch` flag.
 
 You can use it for a single file
 

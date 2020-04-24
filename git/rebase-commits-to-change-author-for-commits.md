@@ -1,4 +1,4 @@
-# Rebase Commits With An Arbitrary Command
+# Rebase Commits To Change Author For Previously Made Commits
 
 Interactive rebasing is a powerful way to manage and tend to the history of
 a git repository. Rewording and squashing commits are fairly common actions.

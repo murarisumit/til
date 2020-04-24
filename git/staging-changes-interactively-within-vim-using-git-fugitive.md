@@ -1,4 +1,4 @@
-# Staging Changes Within Vim
+# Interactively staging changes within using git-fugitive
 
 I've always used git from the command line, but only recently have I started
 to leverage [fugitive.vim](https://github.com/tpope/vim-fugitive) to more

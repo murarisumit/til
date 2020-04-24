@@ -6,8 +6,8 @@ going to cut it. Another option is to just checkout the particular file as
 it was at the time of a past commit.
 
 If the sha of that past commit is `72f2675` and the file's name is
-`some_file.rb`, then just use checkout like so:
+`some_file.py`, then just use checkout like so:
 
 ```
-$ git checkout 72f2675 some_file.rb
+$ git checkout 72f2675 some_file.py
 ```

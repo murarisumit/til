@@ -1,4 +1,4 @@
-# List Commits On A Branch
+# List Commits On A Branch After split
 
 You can list all commits that have taken place since a branch split off from
 another branch using `git log`. You just need to specify a ref range with
