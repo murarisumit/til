@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_356 TILs and counting..._
+_350 TILs and counting..._
 
 ---
 
@@ -275,18 +275,12 @@ _356 TILs and counting..._
 - [Absolute And Relative Line Numbers](vim/absolute-and-relative-line-numbers.md)
 - [Add A File Without Loading It](vim/add-a-file-without-loading-it.md)
 - [Add Custom Dictionary Words](vim/add-custom-dictionary-words.md)
-- [Almost The End Of The Line](vim/almost-the-end-of-the-line.md)
-- [Alternate Files With vim-rails](vim/alternate-files-with-vim-rails.md)
 - [Amend Commits With Fugitive](vim/amend-commits-with-fugitive.md)
-- [Backspace Options](vim/backspace-options.md)
 - [Beginning And End Of Previous Change](vim/beginning-and-end-of-previous-change.md)
-- [Blank Lines Above And Below](vim/blank-lines-above-and-below.md)
 - [Breaking The Undo Sequence](vim/breaking-the-undo-sequence.md)
 - [Buffer Time Travel](vim/buffer-time-travel.md)
 - [Build And Install A Go Program](vim/build-and-install-a-go-program.md)
-- [Case-Aware Substitution With vim-abolish](vim/case-aware-substitution-with-vim-abolish.md)
 - [Case-Insensitive Substitution](vim/case-insensitive-substitution.md)
-- [Center The Cursor](vim/center-the-cursor.md)
 - [Check For An Executable](vim/check-for-an-executable.md)
 - [Check Your Current Color Scheme](vim/check-your-current-color-scheme.md)
 - [Clear Out The Jump List](vim/clear-out-the-jump-list.md)
