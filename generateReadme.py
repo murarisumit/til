@@ -62,7 +62,7 @@ def get_list_of_categories():
     level.  These are the "categories" in which there are TILs.'''
     dirs = [x for x in os.listdir('.') if os.path.isdir(x) and
             '.git' not in x]
-    dirs.remove('assests')
+    dirs.remove('assets')
     return dirs
 
 
