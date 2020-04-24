@@ -1,8 +1,0 @@
-language: python
-before_install:
-  - sudo apt install make
-script:
-  - make
-after_success:
-  - .travis/push.sh
-
