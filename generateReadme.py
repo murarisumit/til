@@ -59,6 +59,7 @@ def get_list_of_categories():
     dirs = [x for x in os.listdir('.') if os.path.isdir(x) and
             '.git' not in x]
     dirs.remove('assets')
+    dirs.remove('.travis')
     return dirs
 
 
