@@ -13,7 +13,7 @@ commit_website_files() {
 
 upload_files() {
   git remote add origin-pages https://${GITHUB_TOKEN}@github.com/murarisumit/til.git
-  git push --quiet --set-upstream origin-pages gh-pages
+  git push --set-upstream origin-pages gh-pages --force
 }
 
 setup_git
