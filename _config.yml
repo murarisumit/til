@@ -1,0 +1,5 @@
+theme: jekyll-theme-cayman
+title: Collection of TILs(Today I learned)
+markdown: GFM
+github:
+  is_project_page: true
