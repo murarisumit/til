@@ -46,10 +46,7 @@ I shamelessly stole this idea from
 * [Today I Learned by Hashrocket](https://til.hashrocket.com)
 * [jwworth/til](https://github.com/jwworth/til)
 * [thoughtbot/til](https://github.com/thoughtbot/til)
-
----
-* I(Sumit Mruari) personally used from [https://github.com/jbranchaud/til]
----
+* I personally used from https://github.com/jbranchaud/til
 
 ## License
 
@@ -65,6 +62,7 @@ def get_list_of_categories():
     level.  These are the "categories" in which there are TILs.'''
     dirs = [x for x in os.listdir('.') if os.path.isdir(x) and
             '.git' not in x]
+    dirs.remove('assests')
     return dirs
 
 

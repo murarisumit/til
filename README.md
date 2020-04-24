@@ -586,10 +586,7 @@ I shamelessly stole this idea from
 * [Today I Learned by Hashrocket](https://til.hashrocket.com)
 * [jwworth/til](https://github.com/jwworth/til)
 * [thoughtbot/til](https://github.com/thoughtbot/til)
-
----
-* I(Sumit Mruari) personally used from [https://github.com/jbranchaud/til]
----
+* I personally used from https://github.com/jbranchaud/til
 
 ## License
 
