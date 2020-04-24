@@ -6,13 +6,12 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_359 TILs and counting..._
+_356 TILs and counting..._
 
 ---
 
 ### Categories
 
-* [Ack](#ack)
 * [Chrome](#chrome)
 * [Css](#css)
 * [Git](#git)
@@ -29,12 +28,6 @@ _359 TILs and counting..._
 * [Workflow](#workflow)
 
 ---
-
-### Ack
-
-- [Case-Insensitive Search](ack/case-insensitive-search.md)
-- [List Available File Types](ack/list-available-file-types.md)
-- [ack --bar](ack/ack-bar.md)
 
 ### Chrome
 
