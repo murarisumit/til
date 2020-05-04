@@ -24,7 +24,7 @@ So this way without any manual config or DHCP server, machine is able to get an 
 
 Important part: 
 * These address are very always within the network, which means that these address are **not** moved across network via router like private ip range(10.0.0.0/8, 172.31.0.0/16, 192.168.0.0/16). 
-* Packets with link-local address are always dropped by router.
+* Packets with link-local address are always dropped by router(as there is no guarantees that address is unique beyond it’s network).
 
 ---
 
