@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_230 TILs and counting..._
+_232 TILs and counting..._
 
 ---
 
@@ -20,6 +20,8 @@ _230 TILs and counting..._
 * [Linux](#linux)
 * [Mac](#mac)
 * [Mongodb](#mongodb)
+* [Network](#network)
+* [Spanish](#spanish)
 * [Tmux](#tmux)
 * [Unix](#unix)
 * [Vim](#vim)
@@ -149,6 +151,14 @@ _230 TILs and counting..._
 ### Mongodb
 
 - [Determine The Database Version](mongodb/determine-the-database-version.md)
+
+### Network
+
+- [Link local address in IPV4](network/link-local-address.md)
+
+### Spanish
+
+- [Gerund vs Gerundio](spanish/gerund-vs-gerundio.md)
 
 ### Tmux
 
